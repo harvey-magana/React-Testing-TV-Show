@@ -1,6 +1,9 @@
 import React from 'react';
 import parse from 'html-react-parser';
 
+// you must test the Episodes.js component
+// episodes gets passed in and is in props 
+
 export default function Episodes(props) {
   return (
     <div className="episodes">
